@@ -1,0 +1,6 @@
+{
+  "name": "Astro Dodge",
+  "description": "Jeu d'arcade spatial rétro-futuriste : pilotez votre vaisseau, esquivez les astéroïdes, activez des bonus et battez votre record !",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

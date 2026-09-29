@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Astro Dodge</string>
+    <string name="btn_play">Jouer</string>
+    <string name="btn_resume">Reprendre</string>
+    <string name="btn_restart">Rejouer</string>
+    <string name="btn_menu">Menu Principal</string>
+    <string name="btn_leaderboard">Scores</string>
+    <string name="btn_hangar">Hangar</string>
+    <string name="btn_achievements">Trophées</string>
+    <string name="btn_settings">Paramètres</string>
+    <string name="score_label">Score</string>
+    <string name="best_score_label">Record</string>
+    <string name="stars_label">Étoiles</string>
+    <string name="wave_label">Vague</string>
+    <string name="game_over_title">Partie Terminée</string>
+    <string name="new_record_badge">Nouveau Record !</string>
+    <string name="paused_title">Pause</string>
+</resources>
